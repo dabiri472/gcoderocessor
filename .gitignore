@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+*.swp
+*.sln.docstates
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Debug files
+*.pdb
+
+# Packages
+packages/
