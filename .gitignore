@@ -3,6 +3,10 @@ bin/
 obj/
 publish/
 
+# Keep single folder for release
+!single/
+!single/GCodeProcessor.exe
+
 # User-specific files
 *.user
 *.suo
